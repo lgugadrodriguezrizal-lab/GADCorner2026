@@ -1,0 +1,261 @@
+{
+  "republic_acts": [
+    {
+      "id": "ra_9710",
+      "year": 2009,
+      "title": "Republic Act No. 9710 (Magna Carta of Women)",
+      "description": "An Act Providing for the Magna Carta of Women.",
+      "date": "2009-08-14",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/magna-carta-of-women/"
+    },
+    {
+      "id": "ra_11313",
+      "year": 2019,
+      "title": "Republic Act No. 11313 (Safe Spaces Act)",
+      "description": "An Act Defining Gender-Based Sexual Harassment in Streets, Public Spaces, Online, Workplaces, and Educational or Training Institutions.",
+      "date": "2019-04-17",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/faq-republic-act-no-11313/"
+    },
+    {
+      "id": "ra_9262",
+      "year": 2004,
+      "title": "Republic Act No. 9262 (Anti-VAWC Act)",
+      "description": "Anti-Violence Against Women and Their Children Act of 2004.",
+      "date": "2004-03-08",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/republic-act-9262-anti-violence-against-women-and-their-children-act-of-2004/"
+    }
+  ],
+  "memoranda": [
+    {
+      "id": "c_2026_02",
+      "year": 2026,
+      "title": "PCW Memorandum Circular No. 2026-02",
+      "description": "Guide for the 2026 National Women's Month Celebration",
+      "date": "2026-02-02",
+      "status": "New",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2026-02-guide-for-the-2026-national-womens-month-celebration/"
+    },
+    {
+      "id": "c_2026_01",
+      "year": 2026,
+      "title": "PCW Memorandum Circular No. 2026-01",
+      "description": "Accomplishment and Online Submission of Fiscal Year (FY) 2025 GAD Focal Point System (GFPS) Profile Form",
+      "date": "2026-01-29",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-2026-01-accomplishment-and-online-submissionof-fiscal-year-fy2025-gad-focal-point-system-gfps-profile-form/"
+    },
+    {
+      "id": "c_2025_09",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-09",
+      "description": "Submission of FY 2025 Gender and Development (GAD) Accomplishment Report (AR)",
+      "date": "2025-12-02",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-09-submission-of-fy-2025-gender-and-development-gad-accomplishment-report-ar/"
+    },
+    {
+      "id": "c_2025_08",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-08",
+      "description": "Guide for the 2025 Observance of the 18-day Campaign to End VAW",
+      "date": "2025-09-18",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/memorandum-circular-no-2025-08-guide-for-the-2025-observance-of-the-18-day-campaign-to-end-violence-against-women-vaw/"
+    },
+    {
+      "id": "c_2025_07",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-07",
+      "description": "Reaffirming Gender Mainstreaming as a Strategy for Gender Equality and Women’s Empowerment",
+      "date": "2025-08-29",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-07/"
+    },
+    {
+      "id": "c_2025_06",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-06",
+      "description": "Preparation and Online Submission of Fiscal Year (FY) 2026 Gender and Development (GAD) Plans and Budget",
+      "date": "2025-07-18",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-06-preparation-and-online-submission-of-fiscal-year-fy-2026-gender-and-development-gad-plans-and-budget/"
+    },
+    {
+      "id": "c_2025_05",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-05",
+      "description": "Guidelines on the Establishment of Gender and Development (GAD) Corner",
+      "date": "2025-06-25",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-05-guidelines-on-the-establishment-of-gender-and-development-gad-corner/"
+    },
+    {
+      "id": "c_2025_04",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-04",
+      "description": "Exclusive Proprietary Rights of the PCW Over the Use of GADtimpala Award",
+      "date": "2025-02-24",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-04-exclusive-proprietary-rights-of-the-philippine-commission-on-women-over-the-use-of-gadtimpala-award/"
+    },
+    {
+      "id": "c_2025_03",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-03",
+      "description": "GADtimpala 2023 Call for Nominations",
+      "date": "2025-02-20",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-03-gadtimpala-2023-call-for-nominations/"
+    },
+    {
+      "id": "c_2025_02",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-02",
+      "description": "Updated Guidelines on the GAD Focal Point System (GFPS) External Coaching and Technical Assistance",
+      "date": "2025-02-06",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-02-updated-guidelines-on-the-gad-focal-point-system-gfps-external-coaching-and-technical-assistance-for-national-government-agencies-and-others/"
+    },
+    {
+      "id": "c_2025_01",
+      "year": 2025,
+      "title": "PCW Memorandum Circular No. 2025-01",
+      "description": "Guide for the 2025 National Women’s Month Celebration",
+      "date": "2025-02-03",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2025-01-guide-for-the-2025-national-womens-month-celebration/"
+    },
+    {
+      "id": "c_2024_05",
+      "year": 2024,
+      "title": "PCW Memorandum Circular No. 2024-05",
+      "description": "Submission of FY 2024 Gender and Development (GAD) Accomplishment Report (AR)",
+      "date": "2024-12-16",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2024-05-submission-of-fy-2024-gender-and-development-gad-accomplishment-report-ar/"
+    },
+    {
+      "id": "c_2024_04",
+      "year": 2024,
+      "title": "PCW Memorandum Circular No. 2024-04",
+      "description": "Guide for the 2024 Observance of the 18-day Campaign to End Violence Against Women (VAW)",
+      "date": "2024-09-18",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/memorandum-circular-no-2024-04-guide-for-the-2024-observance-of-the-18-day-campaign-to-end-violence-against-women-vaw/"
+    },
+    {
+      "id": "c_2024_03",
+      "year": 2024,
+      "title": "PCW Memorandum Circular No. 2024-03",
+      "description": "Preparation and Online Submission of FY 2025 Gender and Development (GAD) Plans and Budget",
+      "date": "2024-07-19",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2024-03-preparation-and-online-submission-of-fiscal-year-fy-2025-gender-and-development-gad-plans-and-budget/"
+    },
+    {
+      "id": "c_2024_02",
+      "year": 2024,
+      "title": "PCW Memorandum Circular No. 2024-02",
+      "description": "Guide for the 2024 National Women’s Month Celebration",
+      "date": "2024-01-31",
+      "status": "Active",
+      "url": "https://pcw.gov.ph/pcw-memorandum-circular-no-2024-02-guide-for-the-2024-national-womens-month-celebration/"
+    },
+    {
+      "id": "m1",
+      "year": 2024,
+      "title": "Memorandum on Mandatory GAD Training for All Dept Heads",
+      "description": "Re-constitution of the technical working group.",
+      "date": "2024-02-14",
+      "status": "Urgent",
+      "file": "uploads/policies/memo-2024-005.pdf"
+    },
+    {
+      "id": "m2",
+      "year": 2024,
+      "title": "Submission of Gender Disaggregated Data (GDD)",
+      "description": "Quarterly reporting requirements for all units.",
+      "date": "2024-01-30",
+      "status": "Info",
+      "file": "uploads/policies/memo-2024-002.pdf"
+    }
+  ],
+  "resolutions": [
+    {
+      "id": "r1",
+      "year": 2023,
+      "title": "Reso No. 2023-45 Adoption of the 2024 GAD Plan and Budget",
+      "description": "Adoption of the annual plan and budget.",
+      "date": "2023-10-12",
+      "status": "Passed",
+      "file": "uploads/policies/reso-2023-45.pdf"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "year": 2024,
+      "title": "Order 2024-02: Designation of GAD Focal Point System (GFPS) Members",
+      "description": "Re-constitution of the technical working group.",
+      "date": "2024-01-10",
+      "status": "Active",
+      "file": "uploads/policies/order-2024-02.pdf"
+    }
+  ],
+  "estado_ni_juana": [
+    {
+      "id": "p7f34bada",
+      "year": 2026,
+      "title": "KUMIKITANG KABABAIHAN | BREAD AND PASTRY PRODUCTION TRAINING",
+      "description": "Sa huli at espesyal na episode ng Kumikitang Kababaihan ngayong Women’s Month 2026, tunghayan ang makukulay na paglalakbay ng tatlong kababaihang Montalbeño—mula sa livelihood training hanggang sa kanilang tagumpay—matapos sumailalim sa Bread and Pastry Training na handog ng magkatuwang na programa ng Pamahalaang Bayan ng Montalban, sa pamumuno ni Mayor General Ronnie S. Evangelista (Ret.), iTech Technical Vocational Institute, Corp., at Eastern Star Institute of Science & Technology (ESIST), Inc. Abangan ang buong episode ng kanilang kwento ng determinasyon, pag-asa, at tagumpay ngayong Sabado, Marso 28, 2026, sa Kumikitang Kababaihan.",
+      "date": "2026-03-28",
+      "status": "Active",
+      "file": "#",
+      "url": "https://www.facebook.com/reel/2227484758061814"
+    },
+    {
+      "id": "p25947280",
+      "year": 2026,
+      "title": "KUMIKITANG KABABAIHAN | HAIR-DRESSING TRAINING",
+      "description": "Alamin ang kuwento ng pamilya Blanco sa ikalawang episode ng Kumikitang Kababaihan ngayong Women’s Month 2026, at kung paano nakatulong sa kanilang kabuhayan at pamilya ang kanilang natapos na Hair Dressing Training na handog ng magkatuwang na programa ng Pamahalaang Bayan ng Montalban, sa pamumuno ni Mayor General Ronnie S. Evangelista (Ret.), at ng Good Neighbors Philippines. Panoorin ang buong episode ngayong Sabado, Marso 14, 2026, sa Kumikitang Kababaihan.",
+      "date": "2026-03-14",
+      "status": "Active",
+      "file": "#",
+      "url": "https://www.facebook.com/reel/2755439637959920"
+    },
+    {
+      "id": "p9d1d2fbb",
+      "year": 2026,
+      "title": "KUMIKITANG KABABAIHAN | BAYONG-MAKING TRAINING",
+      "description": "Ngayong Buwan ng Kababaihan 2026, ating kilalanin ang mga nagtapos ng iba’t ibang livelihood training na handog ng Pamahalaang Bayan ng Montalban, sa pamumuno ni Mayor General Ronnie S. Evangelista (Ret.). Sa unang episode, tunghayan natin ang kwento ng mga nanay na bahagi ng Life in the Light Christian Fellowship at kung paano nakatulong sa kanilang pamilya at church ang kanilang natapos na Bayong Making Training.",
+      "date": "2026-03-28",
+      "status": "Active",
+      "file": "#",
+      "url": "https://www.facebook.com/reel/1411427893511274"
+    },
+    {
+      "id": "p0904f53a",
+      "year": 2026,
+      "title": "KUMIKITANG KABABAIHAN | MUSHROOM PRODUCTION TRAINING",
+      "description": "Sa ikatlong episode ng Kumikitang Kababaihan, tampok ang isinagawang Mushroom Production Training para sa Ligtas Farmers Gold SLP Association mula sa Sitio Ligtas, Brgy. San Rafael—isang komunidad sa liblib na bahagi ng bayan. Sa tulong ng award-winning small business na Hiyas Urban Mushroom, naibahagi ang kaalaman at praktikal na kasanayan sa pagtatanim at pagnenegosyo ng kabute bilang alternatibong pagkakakitaan ng mga kalahok.",
+      "date": "2026-03-21",
+      "status": "Active",
+      "file": "#",
+      "url": "https://www.facebook.com/reel/927800116517540"
+    },
+    {
+      "id": "pe965a356",
+      "year": 2026,
+      "title": "KUMIKITANG KABABAIHAN: BAYONG-MAKING TRAINING",
+      "description": "Sa unang episode ng Kumikitang Kababaihan ngayong Women’s Month 2026, at bilang pagkilala sa kakayahan ng mga Montalbeñong kababaihan, ating tunghayan ang kwento ng mga nanay na bahagi ng Life in the Light Christian Fellowship at kung paano nakatulong sa kanilang kabuhayan, pamilya at church ang kanilang natapos na Bayong Making Training. Tara’t panoorin natin ang buong episode ngayong darating na Sabado, March 7, 2026, sa Kumikitang Kababaihan.",
+      "date": "2026-03-07",
+      "status": "Active",
+      "file": "#",
+      "url": "https://www.facebook.com/reel/940947578684112"
+    }
+  ],
+  "reports": []
+}
