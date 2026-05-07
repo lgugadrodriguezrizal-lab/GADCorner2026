@@ -115,7 +115,7 @@ npm run watch
 
 ## 👨‍💻 Development Team
 
-This platform was engineered and designed by the Montalban IT Development Team.
+This platform was engineered and designed by the Colegio De Montalban IT Students.
 
 **Lead Architect, Backend & UI/UX Frontend:** [Jameel U. Tutungan](https://github.com/SSL-ACTX)  
 **Backend & UI/UX:** [Andrey Caburnay](https://github.com/ryujihub)
@@ -134,7 +134,7 @@ This software and all associated files are **proprietary**. Unauthorized use, co
 
 For technical inquiries or system-related concerns:
 
-- **Email:** gad@montalban.gov.ph
+- **Email:** lgugadrodriguezrizal@gmail.com
 - **Location:** GAD Office, 2nd Floor Municipal Hall, Rodriguez, Rizal.
 
 _Developed for the service of the people of Montalban._
