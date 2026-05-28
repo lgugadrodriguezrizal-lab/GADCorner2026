@@ -34,7 +34,6 @@ except ImportError:
 # Configuration
 # ---------------------------------------------------------------------------
 FACEBOOK_PAGE_URLS = [
-    "https://www.facebook.com/MontalbanGenderAndDevelopment",
     "https://www.facebook.com/profile.php?id=61567326855133"
 ]
 IMGBB_API_KEY = "768e4e92399d79e0b981a3368fe9a046"
